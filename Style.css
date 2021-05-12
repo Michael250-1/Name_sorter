@@ -1,0 +1,27 @@
+input{
+    margin:10px ;
+}
+#submitbutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sortbutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+#display_name_withcomma {
+ padding: 10px;
+ background-color: aquamarine;
+ border-color: green;
+ border-radius: 10px;
+ width:50%;
+}
+
+#display_name_withoutcomma{
+    padding: 10px;
+    background-color:rgb(114, 16, 16);
+    border-color: rgb(187, 20, 20);
+    border-radius: 10px;
+    width:50%;
+}
